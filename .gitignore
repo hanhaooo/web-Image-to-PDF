@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略 exe 文件（通常用于 Release 分发，不进源码）
+*.exe
+
+# 忽略历史归档文件夹
+history/
+
+# 忽略可能包含隐私的数据文件
+.env
+config.py
+*.csv
+*.json
+*.log
